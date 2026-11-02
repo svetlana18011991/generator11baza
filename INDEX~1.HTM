@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1929">
+  <title>Генератор ЕГЭ по базовой математике · задание № 1</title>
+  <meta name="description" content="Генератор вариантов и тренажёр ЕГЭ по базовой математике. Задание № 1: 39 прототипов и по 7 аналогов к каждому. Основа банка — сборник MathStart.">
+  <link rel="icon" type="image/webp" href="logo.webp">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="ege_task1.js"></script>
+  <script defer src="engine.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <div class="ambient ambient-one" aria-hidden="true"></div>
+  <div class="ambient ambient-two" aria-hidden="true"></div>
+  <header class="site-header">
+    <div class="brand">
+      <img src="logo.webp" width="62" height="62" alt="Шкатулка интерактивов">
+      <div>
+        <div class="eyebrow">ШКАТУЛКА ИНТЕРАКТИВОВ</div>
+        <div class="brand-title">Генератор <span>ЕГЭ</span></div>
+        <div class="brand-subtitle">Математика · базовый уровень</div>
+      </div>
+    </div>
+    <div class="header-right"><span class="green-dot"></span> Задание № 1 подключено <span class="header-separator">·</span> Работает без интернета</div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar" aria-label="Навигация по заданиям ЕГЭ">
+      <div class="sidebar-heading">РАЗДЕЛЫ ЭКЗАМЕНА</div>
+      <div class="section-note">Сюда последовательно добавятся все 21 задание базового ЕГЭ.</div>
+      <div id="exam-nav" class="exam-nav"></div>
+      <div class="sidebar-source">
+        <div class="source-icon">▣</div>
+        <div><strong>Основа банка</strong><span>Открытый банк задач ЕГЭ по базовой математике · MathStart, 18.05.2026</span></div>
+      </div>
+    </aside>
+
+    <main class="main-area">
+      <section class="intro">
+        <div class="topic-overline"><span class="round-icon">1</span> ПРАКТИЧЕСКИЕ ЗАДАЧИ / ЗАДАНИЕ № 1</div>
+        <h1>Простые текстовые задачи</h1>
+        <p class="intro-description">Исходные задания сохранены без изменений. Для каждого прототипа доступно ровно семь аналогов с теми же формулировками и разными числовыми данными. Выбирай задачи, создавай варианты или тренажёр и распечатывай результат.</p>
+        <div class="stats">
+          <div class="stat"><strong id="stat-protos">39</strong><span>прототипов</span></div>
+          <div class="stat"><strong id="stat-analogs">273</strong><span>аналогов</span></div>
+          <div class="stat"><strong id="stat-total">312</strong><span>всего задач</span></div>
+          <div class="stat stat-highlight"><strong>7</strong><span>аналогов на прототип</span></div>
+        </div>
+      </section>
+
+      <div class="workspace">
+        <section class="panel choose-panel" aria-labelledby="choose-title">
+          <div class="panel-heading"><div><span class="step">01</span><h2 id="choose-title">Выбор прототипов</h2></div><span class="tiny-pill" id="selected-count">39 из 39</span></div>
+          <p class="panel-hint">Выбранные прототипы определяют, из каких сюжетов брать задачи. В каждом доступно 7 аналогов.</p>
+          <div class="toolbar">
+            <button class="tiny-btn" type="button" id="select-all">Выбрать все</button>
+            <button class="tiny-btn" type="button" id="clear-all">Снять выбор</button>
+          </div>
+          <label class="search-wrap"><span class="sr-only">Поиск прототипов</span><span aria-hidden="true">⌕</span><input id="search-proto" type="search" placeholder="Найти прототип или тему…" autocomplete="off"></label>
+          <div id="prototype-groups" class="prototype-groups"></div>
+        </section>
+
+        <section class="panel generation-panel" aria-labelledby="build-title">
+          <div class="panel-heading"><div><span class="step">02</span><h2 id="build-title">Настройки генерации</h2></div></div>
+          <p class="panel-hint">Выбери формат. Один вариант пока содержит только задание № 1 — остальные будут добавляться позже.</p>
+          <div class="mode-switch" role="group" aria-label="Режим генератора">
+            <button type="button" class="mode-btn active" data-mode="variants" aria-pressed="true"><span class="mode-icon">▦</span><strong>Варианты</strong><small>По одной задаче № 1</small></button>
+            <button type="button" class="mode-btn" data-mode="training" aria-pressed="false"><span class="mode-icon">✎</span><strong>Тренажёр</strong><small>Несколько задач по темам</small></button>
+          </div>
+          <div class="setting-field" id="variant-options">
+            <label for="variant-count">Количество вариантов</label>
+            <div class="quantity-row"><button type="button" class="quantity-btn" data-adjust="-1" data-target="variant-count" aria-label="Меньше вариантов">−</button><input id="variant-count" type="number" min="1" max="100" step="1" value="10"><button type="button" class="quantity-btn" data-adjust="1" data-target="variant-count" aria-label="Больше вариантов">+</button></div>
+            <p class="field-hint">В каждом варианте — одна задача из случайного выбранного прототипа. Прототипы чередуются без перекоса.</p>
+          </div>
+          <div class="setting-field hidden" id="training-options">
+            <label for="training-count">Задач на каждый выбранный прототип</label>
+            <select id="training-count"><option value="1">1 задача</option><option value="2">2 задачи</option><option value="3" selected>3 задачи</option><option value="5">5 задач</option><option value="all">Все доступные (не более 8)</option></select>
+            <p class="field-hint">Задачи одного прототипа не повторяются в пределах тренажёра.</p>
+          </div>
+          <label class="switch-line"><input type="checkbox" id="include-proto" checked><span class="custom-check"></span><span><strong>Включать исходные прототипы</strong><small>Иначе использовать только аналоги</small></span></label>
+          <label class="switch-line"><input type="checkbox" id="show-source" checked><span class="custom-check"></span><span><strong>Показывать номер задачи</strong><small>Например, 1.7.3 — удобно для поиска</small></span></label>
+          <button class="generate-btn" type="button" id="generate"><span aria-hidden="true">✦</span> Сгенерировать задания</button>
+          <p class="error-message" id="error" role="alert" aria-live="polite"></p>
+          <div class="source-tip"><span>ℹ</span><p>Исходные задания из PDF сохранены без изменения условий. Недостающие аналоги дописаны с заменой только числовых данных. Ответы точные, без округления.</p></div>
+        </section>
+      </div>
+
+      <section class="panel output-panel" id="output-panel" aria-labelledby="output-title">
+        <div class="output-heading"><div><span class="step">03</span><h2 id="output-title">Готовые задания</h2><p id="output-subtitle">Нажми «Сгенерировать задания», чтобы увидеть результат.</p></div><div id="output-actions" class="output-actions hidden"><button id="toggle-answers" class="tiny-btn" type="button" aria-pressed="false">Показать ответы</button><button id="print" class="tiny-btn print-btn" type="button">⎙ Печать / PDF</button></div></div>
+        <div id="output" class="output-empty"><div class="empty-art" aria-hidden="true">∑</div><strong>Здесь появятся твои задания</strong><span>Можно менять выбор прототипов и создавать новые комплекты.</span></div>
+        <div id="answer-section" class="hidden" aria-label="Ответы к заданиям"></div>
+      </section>
+      <footer>Генератор ЕГЭ · базовый уровень · задание № 1 · основа: сборник А. Д. Остромогильского (MathStart, 18.05.2026).</footer>
+    </main>
+  </div>
+</body>
+</html>
