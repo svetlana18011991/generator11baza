@@ -1165,7 +1165,7 @@ h1,h2,.main-content h2,.password-gate-title{color:#67d0ff!important}
             <h3>Генератор ЕГЭ по базовой математике</h3>
             <p>Генератор рассчитан на <strong>21 задание с кратким ответом</strong>. Здесь нет второй части, развёрнутых ответов и дополнительных блоков заданий.</p>
             <h3>Подключение банка заданий</h3>
-            <p>Сейчас поставляется чистая основа: старые задания профильного ЕГЭ отключены. Задания будут подключаться постепенно — отдельно для каждого номера, через файл <strong>task1.js</strong>, <strong>task2.js</strong> и так далее до <strong>task21.js</strong>.</p>
+            <p>Уже подключены <strong>задание №1 «Простые текстовые задачи»</strong> (39 прототипов), <strong>задание №2 «Единицы измерения»</strong> (7 прототипов) и <strong>задание №3 «Таблицы, графики и диаграммы»</strong> (28 прототипов). Для каждого прототипа есть одна задача с подробным разбором и пять аналогов без решения. Остальные номера подключаются постепенно через файлы <strong>task4.js</strong> — <strong>task21.js</strong>.</p>
             <p>Пока у номера нет подключённых типов, он помечен как «Ожидает подключения» и не доступен для генерации. После добавления типов активируются выбор количества и настройка тем. Полный вариант появится после подключения всех 21 номеров.</p>
             <h3>Сборка вариантов</h3>
             <p><strong>Ручной набор:</strong> задайте количество задач у подключённых номеров, при необходимости выберите типы через «Настроить» и нажмите «Сгенерировать выбранные задания».</p>
@@ -1202,7 +1202,7 @@ h1,h2,.main-content h2,.password-gate-title{color:#67d0ff!important}
         <div style="margin-top: 30px; background: #2a2a2a; border-left: 4px solid #4CAF50; padding: 15px; border-radius: 0 8px 8px 0; text-align: left;">
             <h4 style="margin: 0 0 8px 0; color: #4CAF50; font-size: 1.05em;">📌 Добро пожаловать в генератор!</h4>
             <p style="font-size: 0.85em; margin: 0; color: #ddd; line-height: 1.4;">
-                Генератор ЕГЭ (база): 21 задание с кратким ответом. После подключения новых типов здесь можно создать:<br>
+                Генератор ЕГЭ (база): подключены задания №1 (39 типов) и №2 (7 типов); остальные номера ожидают заполнения. Здесь можно создать:<br>
                 • 💻 Интерактивный вариант<br>
                 • 🖨️ PDF-файл для печати<br>
                 • 🎬 Учебную презентацию<br>
@@ -2350,7 +2350,8 @@ h1,h2,.main-content h2,.password-gate-title{color:#67d0ff!important}
         let data = getPrototypeData(tid, kind);
         if (!data || !data.prototypes || !data.prototypes[index]) return;
         let p = data.prototypes[index];
-        tooltip.innerHTML = `${p.svg_code || ''}<div style="font-size: 0.9em;">${p.tasks[0].text}</div>`;
+        const previewTask = (Array.isArray(p.tasks) && p.tasks.length > 0) ? p.tasks[0].text : (p.theory_task || "<p>Аналогов в исходном сборнике нет.</p>");
+        tooltip.innerHTML = `${p.svg_code || ''}<div style="font-size: 0.9em;">${previewTask}</div>`;
         if (window.autoFixSVGArrows) window.autoFixSVGArrows(tooltip);
         tooltip.style.display = 'block';
         if (window.MathJax) MathJax.typesetPromise([tooltip]);
