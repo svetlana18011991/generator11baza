@@ -1165,7 +1165,7 @@ h1,h2,.main-content h2,.password-gate-title{color:#67d0ff!important}
             <h3>Генератор ЕГЭ по базовой математике</h3>
             <p>Генератор рассчитан на <strong>21 задание с кратким ответом</strong>. Здесь нет второй части, развёрнутых ответов и дополнительных блоков заданий.</p>
             <h3>Подключение банка заданий</h3>
-            <p>Уже подключены <strong>задание №1 «Простые текстовые задачи»</strong> (39 прототипов), <strong>задание №2 «Единицы измерения»</strong> (7 прототипов) и <strong>задание №3 «Таблицы, графики и диаграммы»</strong> (28 прототипов). Для каждого прототипа есть одна задача с подробным разбором и пять аналогов без решения. Остальные номера подключаются постепенно через файлы <strong>task4.js</strong> — <strong>task21.js</strong>.</p>
+            <p>Уже подключены <strong>задание №1 «Простые текстовые задачи»</strong> (39 прототипов), <strong>задание №2 «Единицы измерения»</strong> (7 прототипов), <strong>задание №3 «Таблицы, графики и диаграммы»</strong> (28 прототипов) и <strong>задание №4 «Расчёты по формулам»</strong> (48 прототипов). У каждого прототипа — одна основная задача с разбором и до пяти аналогов; некоторые группы содержат менее пяти аналогов. Номера №5–21 подключаются постепенно.</p>
             <p>Пока у номера нет подключённых типов, он помечен как «Ожидает подключения» и не доступен для генерации. После добавления типов активируются выбор количества и настройка тем. Полный вариант появится после подключения всех 21 номеров.</p>
             <h3>Сборка вариантов</h3>
             <p><strong>Ручной набор:</strong> задайте количество задач у подключённых номеров, при необходимости выберите типы через «Настроить» и нажмите «Сгенерировать выбранные задания».</p>
@@ -2914,7 +2914,7 @@ h1,h2,.main-content h2,.password-gate-title{color:#67d0ff!important}
                             </div>
                         </div>
                         <h4 style='color: #38bdf8;'>Задачи для отработки:</h4>
-                        <ul style='padding-left:20px;'>
+                        <ol style='padding-left:25px;'>
                     `;
                     if(item.theory.tasks) {
                         item.theory.tasks.forEach((t, practiceIndex) => {
@@ -2926,10 +2926,13 @@ h1,h2,.main-content h2,.password-gate-title{color:#67d0ff!important}
                             const practiceDraftId = `practice-${taskCounter}-${practiceIndex + 1}`;
                             const practiceDiagramHTML = buildDraftDiagramCardHTML(practiceDraftId, tSvgCode);
                             const practiceScratchpad = buildInlineScratchpadHTML(practiceDraftId, false, practiceDiagramHTML);
-                            theoryHtml += `<li style='margin-bottom:18px;'><div style="display:flex;align-items:flex-start;gap:8px;"><div style="flex:1;min-width:0;">${protectTaskTypography(t.text)}${tSvg}</div><button type="button" onclick="window.toggleCanvas('${practiceDraftId}')" title="Открыть черновик" style="flex:0 0 auto;background:#e8f4ff;color:#2563eb;border:1px solid #93c5fd;border-radius:6px;font-size:18px;padding:5px 9px;cursor:pointer;">✏️</button></div><div style="margin-top:7px;"><span style='color:#003399;cursor:pointer;border-bottom:1px dashed #003399;' onclick='this.innerText="Ответ: ${t.answer}"; this.style.border="none"; this.style.fontWeight="bold";'>Показать ответ</span></div>${practiceScratchpad}</li>`;
+                            const authorDot = /авторск/i.test(String(t.source || ''))
+                                ? '<span title="Авторский аналог" aria-label="Авторский аналог" style="position:absolute;left:-8px;top:8px;width:5px;height:5px;border-radius:50%;background:#93c5fd;opacity:.68;pointer-events:none;"></span>'
+                                : '';
+                            theoryHtml += `<li style='margin-bottom:18px;position:relative;'>${authorDot}<div style="display:flex;align-items:flex-start;gap:8px;"><div style="flex:1;min-width:0;">${protectTaskTypography(t.text)}${tSvg}</div><button type="button" onclick="window.toggleCanvas('${practiceDraftId}')" title="Открыть черновик" style="flex:0 0 auto;background:#e8f4ff;color:#2563eb;border:1px solid #93c5fd;border-radius:6px;font-size:18px;padding:5px 9px;cursor:pointer;">✏️</button></div><div style="margin-top:7px;"><span style='color:#003399;cursor:pointer;border-bottom:1px dashed #003399;' onclick='this.innerText="Ответ: ${t.answer}"; this.style.border="none"; this.style.fontWeight="bold";'>Показать ответ</span></div>${practiceScratchpad}</li>`;
                         });
                     }
-                    theoryHtml += `</ul>`;
+                    theoryHtml += `</ol>`;
                 }
 
                 let analogsHtml = "";
