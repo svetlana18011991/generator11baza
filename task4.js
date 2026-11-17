@@ -7,31 +7,31 @@ window.database.task4 = {
       "code": "4.1",
       "desc": "Закон Гука — удлинение пружины",
       "part": 1,
-      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Закон Гука можно записать в виде</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[F=kx\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐹 — сила (в ньютонах), с которой растягивают пружину, 𝑥 — абсолютное удлинение пружины (в метрах), а 𝑘 — коэффициент упругости (в Н/м). Пользуясь этой формулой, найдите 𝑥 (в метрах), если 𝐹= 38 Н и 𝑘= 2 Н/м.</p>",
+      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Закон Гука можно записать в виде</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[F=kx,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐹 — сила (в ньютонах), с которой растягивают пружину, 𝑥 — абсолютное удлинение пружины (в метрах), а 𝑘 — коэффициент упругости (в Н/м). Пользуясь этой формулой, найдите 𝑥 (в метрах), если 𝐹= 38 Н и 𝑘= 2 Н/м.</p>",
       "theory_sol": "<p>Запишем формулу и выразим искомую величину. Подставим значения, указанные в условии:</p><div style=\"margin:12px 0;text-align:center;font-size:1.1em\">\\[x=\\dfrac{F}{k}=\\dfrac{38}{2}=19\\]</div><p>Полученное значение записываем в единицах, указанных в вопросе.</p><p style=\"margin-top:12px;font-weight:700\">Ответ: 19.</p>",
       "tasks": [
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Закон Гука можно записать в виде</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[F=kx\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐹 — сила (в ньютонах), с которой растягивают пружину, 𝑥 — абсолютное удлинение пружины (в метрах), а 𝑘 — коэффициент упругости (в Н/м). Пользуясь этой формулой, найдите 𝑥 (в метрах), если 𝐹= 28 Н и 𝑘= 4 Н/м.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Закон Гука можно записать в виде</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[F=kx,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐹 — сила (в ньютонах), с которой растягивают пружину, 𝑥 — абсолютное удлинение пружины (в метрах), а 𝑘 — коэффициент упругости (в Н/м). Пользуясь этой формулой, найдите 𝑥 (в метрах), если 𝐹= 28 Н и 𝑘= 4 Н/м.</p>",
           "answer": "7",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.1.1"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Закон Гука можно записать в виде</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[F=kx\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐹 — сила (в ньютонах), с которой растягивают пружину, 𝑥 — абсолютное удлинение пружины (в метрах), а 𝑘 — коэффициент упругости (в Н/м). Пользуясь этой формулой, найдите 𝑥 (в метрах), если 𝐹= 35 Н и 𝑘= 7 Н/м.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Закон Гука можно записать в виде</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[F=kx,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐹 — сила (в ньютонах), с которой растягивают пружину, 𝑥 — абсолютное удлинение пружины (в метрах), а 𝑘 — коэффициент упругости (в Н/м). Пользуясь этой формулой, найдите 𝑥 (в метрах), если 𝐹= 35 Н и 𝑘= 7 Н/м.</p>",
           "answer": "5",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.1.2"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Закон Гука можно записать в виде</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[F=kx\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐹 — сила (в ньютонах), с которой растягивают пружину, 𝑥 — абсолютное удлинение пружины (в метрах), а 𝑘 — коэффициент упругости (в Н/м). Пользуясь этой формулой, найдите 𝑥 (в метрах), если 𝐹= 42 Н и 𝑘= 7 Н/м.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Закон Гука можно записать в виде</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[F=kx,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐹 — сила (в ньютонах), с которой растягивают пружину, 𝑥 — абсолютное удлинение пружины (в метрах), а 𝑘 — коэффициент упругости (в Н/м). Пользуясь этой формулой, найдите 𝑥 (в метрах), если 𝐹= 42 Н и 𝑘= 7 Н/м.</p>",
           "answer": "6",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.1.3"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Закон Гука можно записать в виде</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[F=kx\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐹 — сила (в ньютонах), с которой растягивают пружину, 𝑥 — абсолютное удлинение пружины (в метрах), а 𝑘 — коэффициент упругости (в Н/м). Пользуясь этой формулой, найдите 𝑥 (в метрах), если 𝐹= 51 Н и 𝑘= 3 Н/м.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Закон Гука можно записать в виде</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[F=kx,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐹 — сила (в ньютонах), с которой растягивают пружину, 𝑥 — абсолютное удлинение пружины (в метрах), а 𝑘 — коэффициент упругости (в Н/м). Пользуясь этой формулой, найдите 𝑥 (в метрах), если 𝐹= 51 Н и 𝑘= 3 Н/м.</p>",
           "answer": "17",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.1.4"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Закон Гука можно записать в виде</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[F=kx\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐹 — сила (в ньютонах), с которой растягивают пружину, 𝑥 — абсолютное удлинение пружины (в метрах), а 𝑘 — коэффициент упругости (в Н/м). Пользуясь этой формулой, найдите 𝑥 (в метрах), если 𝐹= 80 Н и 𝑘= 5 Н/м.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Закон Гука можно записать в виде</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[F=kx,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐹 — сила (в ньютонах), с которой растягивают пружину, 𝑥 — абсолютное удлинение пружины (в метрах), а 𝑘 — коэффициент упругости (в Н/м). Пользуясь этой формулой, найдите 𝑥 (в метрах), если 𝐹= 80 Н и 𝑘= 5 Н/м.</p>",
           "answer": "16",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.1.5"
         }
@@ -789,26 +789,26 @@ window.database.task4 = {
       "code": "4.24",
       "desc": "Сторона треугольника через описанную окружность",
       "part": 1,
-      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника можно вычислить по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{abc}{4R}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — стороны треугольника, а 𝑅 — радиус окружности, описанной около этого треугольника. Пользуясь этой формулой, найдите 𝑏, если 𝑎= 13, 𝑐= 15, 𝑆= 24 и 𝑅= \\(\\dfrac{65}{8}\\).</p>",
+      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника можно вычислить по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{abc}{4R},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — стороны треугольника, а 𝑅 — радиус окружности, описанной около этого треугольника. Пользуясь этой формулой, найдите 𝑏, если 𝑎= 13, 𝑐= 15, 𝑆= 24 и 𝑅= \\(\\dfrac{65}{8}\\).</p>",
       "theory_sol": "<p>Запишем формулу и выразим искомую величину. Подставим значения, указанные в условии:</p><div style=\"margin:12px 0;text-align:center;font-size:1.1em\">\\[b=\\dfrac{4RS}{ac}=\\dfrac{4\\cdot\\frac{65}{8}\\cdot24}{13\\cdot15}=4\\]</div><p>Полученное значение записываем в единицах, указанных в вопросе.</p><p style=\"margin-top:12px;font-weight:700\">Ответ: 4.</p>",
       "tasks": [
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника можно вычислить по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{abc}{4R}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — стороны треугольника, а 𝑅 — радиус окружности, описанной около этого треугольника. Пользуясь этой формулой, найдите 𝑏, если 𝑎= 9, 𝑐= 10, 𝑆= 36 и 𝑅= \\(\\dfrac{85}{8}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника можно вычислить по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{abc}{4R},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — стороны треугольника, а 𝑅 — радиус окружности, описанной около этого треугольника. Пользуясь этой формулой, найдите 𝑏, если 𝑎= 9, 𝑐= 10, 𝑆= 36 и 𝑅= \\(\\dfrac{85}{8}\\).</p>",
           "answer": "17",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.24.1"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника можно вычислить по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{abc}{4R}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — стороны треугольника, а 𝑅 — радиус окружности, описанной около этого треугольника. Пользуясь этой формулой, найдите 𝑏, если 𝑎= 12, 𝑐= 13, 𝑆= 30 и 𝑅= \\(\\dfrac{13}{2}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника можно вычислить по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{abc}{4R},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — стороны треугольника, а 𝑅 — радиус окружности, описанной около этого треугольника. Пользуясь этой формулой, найдите 𝑏, если 𝑎= 12, 𝑐= 13, 𝑆= 30 и 𝑅= \\(\\dfrac{13}{2}\\).</p>",
           "answer": "5",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.24.2"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника можно вычислить по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{abc}{4R}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — стороны треугольника, а 𝑅 — радиус окружности, описанной около этого треугольника. Пользуясь этой формулой, найдите 𝑏, если 𝑎= 13, 𝑐= 15, 𝑆= 84 и 𝑅= \\(\\dfrac{65}{8}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника можно вычислить по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{abc}{4R},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — стороны треугольника, а 𝑅 — радиус окружности, описанной около этого треугольника. Пользуясь этой формулой, найдите 𝑏, если 𝑎= 13, 𝑐= 15, 𝑆= 84 и 𝑅= \\(\\dfrac{65}{8}\\).</p>",
           "answer": "14",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.24.3"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника можно вычислить по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{abc}{4R}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — стороны треугольника, а 𝑅 — радиус окружности, описанной около этого треугольника. Пользуясь этой формулой, найдите 𝑏, если 𝑎= 13, 𝑐= 20, 𝑆= 66 и 𝑅= \\(\\dfrac{65}{6}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника можно вычислить по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{abc}{4R},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — стороны треугольника, а 𝑅 — радиус окружности, описанной около этого треугольника. Пользуясь этой формулой, найдите 𝑏, если 𝑎= 13, 𝑐= 20, 𝑆= 66 и 𝑅= \\(\\dfrac{65}{6}\\).</p>",
           "answer": "11",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.24.4"
         },
@@ -823,26 +823,26 @@ window.database.task4 = {
       "code": "4.25",
       "desc": "Объём прямоугольного параллелепипеда",
       "part": 1,
-      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Объём прямоугольного параллелепипеда вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[V=abc\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — длины трёх его рёбер, выходящих из одной вершины. Пользуясь этой формулой, найдите 𝑎, если 𝑉= 70, 𝑏= 5 и 𝑐= 3,5.</p>",
+      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Объём прямоугольного параллелепипеда вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[V=abc,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — длины трёх его рёбер, выходящих из одной вершины. Пользуясь этой формулой, найдите 𝑎, если 𝑉= 70, 𝑏= 5 и 𝑐= 3,5.</p>",
       "theory_sol": "<p>Запишем формулу и выразим искомую величину. Подставим значения, указанные в условии:</p><div style=\"margin:12px 0;text-align:center;font-size:1.1em\">\\[a=\\dfrac{V}{bc}=\\dfrac{70}{5\\cdot3{,}5}=4\\]</div><p>Полученное значение записываем в единицах, указанных в вопросе.</p><p style=\"margin-top:12px;font-weight:700\">Ответ: 4.</p>",
       "tasks": [
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Объём прямоугольного параллелепипеда вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[V=abc\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — длины трёх его рёбер, выходящих из одной вершины. Пользуясь этой формулой, найдите 𝑎, если 𝑉= 27, 𝑏= 3 и 𝑐= 4,5.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Объём прямоугольного параллелепипеда вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[V=abc,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — длины трёх его рёбер, выходящих из одной вершины. Пользуясь этой формулой, найдите 𝑎, если 𝑉= 27, 𝑏= 3 и 𝑐= 4,5.</p>",
           "answer": "2",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.25.1"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Объём прямоугольного параллелепипеда вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[V=abc\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — длины трёх его рёбер, выходящих из одной вершины. Пользуясь этой формулой, найдите 𝑎, если 𝑉= 30, 𝑏= 4 и 𝑐= 2,5.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Объём прямоугольного параллелепипеда вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[V=abc,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — длины трёх его рёбер, выходящих из одной вершины. Пользуясь этой формулой, найдите 𝑎, если 𝑉= 30, 𝑏= 4 и 𝑐= 2,5.</p>",
           "answer": "3",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.25.2"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Объём прямоугольного параллелепипеда вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[V=abc\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — длины трёх его рёбер, выходящих из одной вершины. Пользуясь этой формулой, найдите 𝑎, если 𝑉= 55, 𝑏= 2 и 𝑐= 5,5.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Объём прямоугольного параллелепипеда вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[V=abc,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — длины трёх его рёбер, выходящих из одной вершины. Пользуясь этой формулой, найдите 𝑎, если 𝑉= 55, 𝑏= 2 и 𝑐= 5,5.</p>",
           "answer": "5",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.25.3"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Объём прямоугольного параллелепипеда вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[V=abc\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — длины трёх его рёбер, выходящих из одной вершины. Пользуясь этой формулой, найдите 𝑎, если 𝑉= 105, 𝑏= 6 и 𝑐= 2,5.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Объём прямоугольного параллелепипеда вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[V=abc,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎, 𝑏 и 𝑐 — длины трёх его рёбер, выходящих из одной вершины. Пользуясь этой формулой, найдите 𝑎, если 𝑉= 105, 𝑏= 6 и 𝑐= 2,5.</p>",
           "answer": "7",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.25.4"
         },
@@ -891,31 +891,31 @@ window.database.task4 = {
       "code": "4.27",
       "desc": "Сумма делителей произведения простых чисел",
       "part": 1,
-      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Если 𝑝1, 𝑝2 и 𝑝3 — различные простые числа, то сумма всех делителей числа 𝑝1·𝑝2·𝑝3 равна</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[(p_1+1)(p_2+1)(p_3+1)\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите сумму всех делителей числа 174 = 2 · 3 · 29.</p>",
+      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Если 𝑝1, 𝑝2 и 𝑝3 — различные простые числа, то сумма всех делителей числа 𝑝1·𝑝2·𝑝3 равна</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[(p_1+1)(p_2+1)(p_3+1).\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите сумму всех делителей числа 174 = 2 · 3 · 29.</p>",
       "theory_sol": "<p>Запишем формулу и выразим искомую величину. Подставим значения, указанные в условии:</p><div style=\"margin:12px 0;text-align:center;font-size:1.1em\">\\[\\sigma=(2+1)(3+1)(29+1)=360\\]</div><p>Полученное значение записываем в единицах, указанных в вопросе.</p><p style=\"margin-top:12px;font-weight:700\">Ответ: 360.</p>",
       "tasks": [
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Если 𝑝1, 𝑝2 и 𝑝3 — различные простые числа, то сумма всех делителей числа 𝑝1·𝑝2·𝑝3 равна</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[(p_1+1)(p_2+1)(p_3+1)\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите сумму всех делителей числа 42 = 2 · 3 · 7.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Если 𝑝1, 𝑝2 и 𝑝3 — различные простые числа, то сумма всех делителей числа 𝑝1·𝑝2·𝑝3 равна</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[(p_1+1)(p_2+1)(p_3+1).\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите сумму всех делителей числа 42 = 2 · 3 · 7.</p>",
           "answer": "96",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.27.1"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Если 𝑝1, 𝑝2 и 𝑝3 — различные простые числа, то сумма всех делителей числа 𝑝1·𝑝2·𝑝3 равна</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[(p_1+1)(p_2+1)(p_3+1)\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите сумму всех делителей числа 66 = 2 · 3 · 11.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Если 𝑝1, 𝑝2 и 𝑝3 — различные простые числа, то сумма всех делителей числа 𝑝1·𝑝2·𝑝3 равна</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[(p_1+1)(p_2+1)(p_3+1).\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите сумму всех делителей числа 66 = 2 · 3 · 11.</p>",
           "answer": "144",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.27.2"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Если 𝑝1, 𝑝2 и 𝑝3 — различные простые числа, то сумма всех делителей числа 𝑝1·𝑝2·𝑝3 равна</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[(p_1+1)(p_2+1)(p_3+1)\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите сумму всех делителей числа 70 = 2 · 5 · 7.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Если 𝑝1, 𝑝2 и 𝑝3 — различные простые числа, то сумма всех делителей числа 𝑝1·𝑝2·𝑝3 равна</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[(p_1+1)(p_2+1)(p_3+1).\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите сумму всех делителей числа 70 = 2 · 5 · 7.</p>",
           "answer": "144",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.27.3"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Если 𝑝1, 𝑝2 и 𝑝3 — различные простые числа, то сумма всех делителей числа 𝑝1·𝑝2·𝑝3 равна</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[(p_1+1)(p_2+1)(p_3+1)\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите сумму всех делителей числа 102 = 2 · 3 · 17.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Если 𝑝1, 𝑝2 и 𝑝3 — различные простые числа, то сумма всех делителей числа 𝑝1·𝑝2·𝑝3 равна</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[(p_1+1)(p_2+1)(p_3+1).\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите сумму всех делителей числа 102 = 2 · 3 · 17.</p>",
           "answer": "216",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.27.4"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Если 𝑝1, 𝑝2 и 𝑝3 — различные простые числа, то сумма всех делителей числа 𝑝1·𝑝2·𝑝3 равна</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[(p_1+1)(p_2+1)(p_3+1)\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите сумму всех делителей числа 105 = 3 · 5 · 7.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Если 𝑝1, 𝑝2 и 𝑝3 — различные простые числа, то сумма всех делителей числа 𝑝1·𝑝2·𝑝3 равна</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[(p_1+1)(p_2+1)(p_3+1).\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите сумму всех делителей числа 105 = 3 · 5 · 7.</p>",
           "answer": "192",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.27.5"
         }
@@ -925,31 +925,31 @@ window.database.task4 = {
       "code": "4.28",
       "desc": "Радиус вписанной окружности",
       "part": 1,
-      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑟, 𝑎= 17, 𝑏= 144 и 𝑐= 145.</p>",
+      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑟, 𝑎= 17, 𝑏= 144 и 𝑐= 145.</p>",
       "theory_sol": "<p>Запишем формулу и выразим искомую величину. Подставим значения, указанные в условии:</p><div style=\"margin:12px 0;text-align:center;font-size:1.1em\">\\[r=\\dfrac{17+144-145}{2}=8\\]</div><p>Полученное значение записываем в единицах, указанных в вопросе.</p><p style=\"margin-top:12px;font-weight:700\">Ответ: 8.</p>",
       "tasks": [
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑟, 𝑎= 15, 𝑏= 112 и 𝑐= 113.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑟, 𝑎= 15, 𝑏= 112 и 𝑐= 113.</p>",
           "answer": "7",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.28.1"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑟, 𝑎= 19, 𝑏= 180 и 𝑐= 181.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑟, 𝑎= 19, 𝑏= 180 и 𝑐= 181.</p>",
           "answer": "9",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.28.2"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑟, 𝑎= 20, 𝑏= 99 и 𝑐= 101.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑟, 𝑎= 20, 𝑏= 99 и 𝑐= 101.</p>",
           "answer": "9",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.28.3"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑟, 𝑎= 21, 𝑏= 220 и 𝑐= 221.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑟, 𝑎= 21, 𝑏= 220 и 𝑐= 221.</p>",
           "answer": "10",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.28.4"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑟, 𝑎= 23, 𝑏= 264 и 𝑐= 265.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑟, 𝑎= 23, 𝑏= 264 и 𝑐= 265.</p>",
           "answer": "11",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.28.5"
         }
@@ -959,26 +959,26 @@ window.database.task4 = {
       "code": "4.29",
       "desc": "Гипотенуза по радиусу вписанной окружности",
       "part": 1,
-      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑐, 𝑎= 12, 𝑏= 35 и 𝑟= 5.</p>",
+      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑐, 𝑎= 12, 𝑏= 35 и 𝑟= 5.</p>",
       "theory_sol": "<p>Запишем формулу и выразим искомую величину. Подставим значения, указанные в условии:</p><div style=\"margin:12px 0;text-align:center;font-size:1.1em\">\\[c=a+b-2r=12+35-2\\cdot5=37\\]</div><p>Полученное значение записываем в единицах, указанных в вопросе.</p><p style=\"margin-top:12px;font-weight:700\">Ответ: 37.</p>",
       "tasks": [
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑐, 𝑎= 6, 𝑏= 8 и 𝑟= 2.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑐, 𝑎= 6, 𝑏= 8 и 𝑟= 2.</p>",
           "answer": "10",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.29.1"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑐, 𝑎= 7, 𝑏= 24 и 𝑟= 3.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑐, 𝑎= 7, 𝑏= 24 и 𝑟= 3.</p>",
           "answer": "25",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.29.2"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑐, 𝑎= 8, 𝑏= 15 и 𝑟= 3.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑐, 𝑎= 8, 𝑏= 15 и 𝑟= 3.</p>",
           "answer": "17",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.29.3"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑐, 𝑎= 20, 𝑏= 21 и 𝑟= 6.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Радиус вписанной в прямоугольный треугольник окружности вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[\\dfrac{a+b-c}{2},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑎 и 𝑏 — катеты, 𝑐 — гипотенуза. Пользуясь этой формулой, найдите 𝑐, 𝑎= 20, 𝑏= 21 и 𝑟= 6.</p>",
           "answer": "29",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.29.4"
         },
@@ -993,31 +993,31 @@ window.database.task4 = {
       "code": "4.30",
       "desc": "Среднее гармоническое",
       "part": 1,
-      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Среднее гармоническое трёх чисел 𝑎, 𝑏 и 𝑐 вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[h=\\left(\\dfrac{\\frac1a+\\frac1b+\\frac1c}{3}\\right)^{-1}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите среднее гармоническое чисел \\(\\dfrac{1}{2}\\), \\(\\dfrac{1}{5}\\) и 1.</p>",
+      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Среднее гармоническое трёх чисел 𝑎, 𝑏 и 𝑐 вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[h=\\left(\\dfrac{\\frac1a+\\frac1b+\\frac1c}{3}\\right)^{-1}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите среднее гармоническое чисел \\(\\dfrac{1}{2}\\), \\(\\dfrac{1}{5}\\) и 1.</p>",
       "theory_sol": "<p>Запишем формулу и выразим искомую величину. Подставим значения, указанные в условии:</p><div style=\"margin:12px 0;text-align:center;font-size:1.1em\">\\[h=\\dfrac{3}{\\frac1{1/2}+\\frac1{1/5}+\\frac11}=\\dfrac38=0{,}375\\]</div><p>Полученное значение записываем в единицах, указанных в вопросе.</p><p style=\"margin-top:12px;font-weight:700\">Ответ: 0,375.</p>",
       "tasks": [
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее гармоническое трёх чисел 𝑎, 𝑏 и 𝑐 вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[h=\\left(\\dfrac{\\frac1a+\\frac1b+\\frac1c}{3}\\right)^{-1}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите среднее гармоническое чисел \\(\\dfrac{1}{2}\\), \\(\\dfrac{1}{3}\\) и \\(\\dfrac{1}{10}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее гармоническое трёх чисел 𝑎, 𝑏 и 𝑐 вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[h=\\left(\\dfrac{\\frac1a+\\frac1b+\\frac1c}{3}\\right)^{-1}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите среднее гармоническое чисел \\(\\dfrac{1}{2}\\), \\(\\dfrac{1}{3}\\) и \\(\\dfrac{1}{10}\\).</p>",
           "answer": "0,2",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.30.1"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее гармоническое трёх чисел 𝑎, 𝑏 и 𝑐 вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[h=\\left(\\dfrac{\\frac1a+\\frac1b+\\frac1c}{3}\\right)^{-1}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите среднее гармоническое чисел \\(\\dfrac{1}{2}\\), \\(\\dfrac{1}{4}\\) и \\(\\dfrac{1}{9}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее гармоническое трёх чисел 𝑎, 𝑏 и 𝑐 вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[h=\\left(\\dfrac{\\frac1a+\\frac1b+\\frac1c}{3}\\right)^{-1}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите среднее гармоническое чисел \\(\\dfrac{1}{2}\\), \\(\\dfrac{1}{4}\\) и \\(\\dfrac{1}{9}\\).</p>",
           "answer": "0,2",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.30.2"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее гармоническое трёх чисел 𝑎, 𝑏 и 𝑐 вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[h=\\left(\\dfrac{\\frac1a+\\frac1b+\\frac1c}{3}\\right)^{-1}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите среднее гармоническое чисел \\(\\dfrac{1}{2}\\), \\(\\dfrac{1}{5}\\) и \\(\\dfrac{1}{8}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее гармоническое трёх чисел 𝑎, 𝑏 и 𝑐 вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[h=\\left(\\dfrac{\\frac1a+\\frac1b+\\frac1c}{3}\\right)^{-1}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите среднее гармоническое чисел \\(\\dfrac{1}{2}\\), \\(\\dfrac{1}{5}\\) и \\(\\dfrac{1}{8}\\).</p>",
           "answer": "0,2",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.30.3"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее гармоническое трёх чисел 𝑎, 𝑏 и 𝑐 вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[h=\\left(\\dfrac{\\frac1a+\\frac1b+\\frac1c}{3}\\right)^{-1}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите среднее гармоническое чисел \\(\\dfrac{1}{2}\\), \\(\\dfrac{1}{9}\\) и 1.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее гармоническое трёх чисел 𝑎, 𝑏 и 𝑐 вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[h=\\left(\\dfrac{\\frac1a+\\frac1b+\\frac1c}{3}\\right)^{-1}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите среднее гармоническое чисел \\(\\dfrac{1}{2}\\), \\(\\dfrac{1}{9}\\) и 1.</p>",
           "answer": "0,25",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.30.4"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее гармоническое трёх чисел 𝑎, 𝑏 и 𝑐 вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[h=\\left(\\dfrac{\\frac1a+\\frac1b+\\frac1c}{3}\\right)^{-1}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите среднее гармоническое чисел \\(\\dfrac{1}{2}\\), \\(\\dfrac{1}{11}\\) и \\(\\dfrac{1}{17}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее гармоническое трёх чисел 𝑎, 𝑏 и 𝑐 вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[h=\\left(\\dfrac{\\frac1a+\\frac1b+\\frac1c}{3}\\right)^{-1}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите среднее гармоническое чисел \\(\\dfrac{1}{2}\\), \\(\\dfrac{1}{11}\\) и \\(\\dfrac{1}{17}\\).</p>",
           "answer": "0,1",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.30.5"
         }
@@ -1027,31 +1027,31 @@ window.database.task4 = {
       "code": "4.31",
       "desc": "Среднее геометрическое",
       "part": 1,
-      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Среднее геометрическое трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[g=\\sqrt[3]{abc}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее геометрическое чисел 5, 25 и 27.</p>",
+      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Среднее геометрическое трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[g=\\sqrt[3]{abc}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее геометрическое чисел 5, 25 и 27.</p>",
       "theory_sol": "<p>Запишем формулу и выразим искомую величину. Подставим значения, указанные в условии:</p><div style=\"margin:12px 0;text-align:center;font-size:1.1em\">\\[g=\\sqrt[3]{5\\cdot25\\cdot27}=\\sqrt[3]{3375}=15\\]</div><p>Полученное значение записываем в единицах, указанных в вопросе.</p><p style=\"margin-top:12px;font-weight:700\">Ответ: 15.</p>",
       "tasks": [
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее геометрическое трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[g=\\sqrt[3]{abc}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее геометрическое чисел 2, 4 и 27.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее геометрическое трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[g=\\sqrt[3]{abc}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее геометрическое чисел 2, 4 и 27.</p>",
           "answer": "6",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.31.1"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее геометрическое трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[g=\\sqrt[3]{abc}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее геометрическое чисел 2, 5 и 100.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее геометрическое трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[g=\\sqrt[3]{abc}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее геометрическое чисел 2, 5 и 100.</p>",
           "answer": "10",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.31.2"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее геометрическое трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[g=\\sqrt[3]{abc}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее геометрическое чисел 2, 8 и 32.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее геометрическое трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[g=\\sqrt[3]{abc}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее геометрическое чисел 2, 8 и 32.</p>",
           "answer": "8",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.31.3"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее геометрическое трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[g=\\sqrt[3]{abc}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее геометрическое чисел 2, 12 и 72.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее геометрическое трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[g=\\sqrt[3]{abc}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее геометрическое чисел 2, 12 и 72.</p>",
           "answer": "12",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.31.4"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее геометрическое трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[g=\\sqrt[3]{abc}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее геометрическое чисел 2, 27 и 32.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее геометрическое трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[g=\\sqrt[3]{abc}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее геометрическое чисел 2, 27 и 32.</p>",
           "answer": "12",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.31.5"
         }
@@ -1061,31 +1061,31 @@ window.database.task4 = {
       "code": "4.32",
       "desc": "Скорость свободно падающего тела",
       "part": 1,
-      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Скорость камня (в м/с), падающего с высоты ℎ (в м), в момент удара о землю можно найти по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[v=\\sqrt{2gh}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите скорость (в м/с), с которой ударится о землю камень, падающий с высоты 22,5 м. Считайте, что ускорение свободного падения 𝑔 равно 9,8 м/с².</p>",
+      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Скорость камня (в м/с), падающего с высоты ℎ (в м), в момент удара о землю можно найти по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[v=\\sqrt{2gh}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите скорость (в м/с), с которой ударится о землю камень, падающий с высоты 22,5 м. Считайте, что ускорение свободного падения 𝑔 равно 9,8 м/с².</p>",
       "theory_sol": "<p>Запишем формулу и выразим искомую величину. Подставим значения, указанные в условии:</p><div style=\"margin:12px 0;text-align:center;font-size:1.1em\">\\[v=\\sqrt{2\\cdot9{,}8\\cdot22{,}5}=\\sqrt{441}=21\\]</div><p>Полученное значение записываем в единицах, указанных в вопросе.</p><p style=\"margin-top:12px;font-weight:700\">Ответ: 21.</p>",
       "tasks": [
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Скорость камня (в м/с), падающего с высоты ℎ (в м), в момент удара о землю можно найти по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[v=\\sqrt{2gh}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите скорость (в м/с), с которой ударится о землю камень, падающий с высоты 0,4 м. Считайте, что ускорение свободного падения 𝑔 равно 9,8 м/с².</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Скорость камня (в м/с), падающего с высоты ℎ (в м), в момент удара о землю можно найти по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[v=\\sqrt{2gh}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите скорость (в м/с), с которой ударится о землю камень, падающий с высоты 0,4 м. Считайте, что ускорение свободного падения 𝑔 равно 9,8 м/с².</p>",
           "answer": "2,8",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.32.1"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Скорость камня (в м/с), падающего с высоты ℎ (в м), в момент удара о землю можно найти по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[v=\\sqrt{2gh}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите скорость (в м/с), с которой ударится о землю камень, падающий с высоты 0,9 м. Считайте, что ускорение свободного падения 𝑔 равно 9,8 м/с².</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Скорость камня (в м/с), падающего с высоты ℎ (в м), в момент удара о землю можно найти по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[v=\\sqrt{2gh}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите скорость (в м/с), с которой ударится о землю камень, падающий с высоты 0,9 м. Считайте, что ускорение свободного падения 𝑔 равно 9,8 м/с².</p>",
           "answer": "4,2",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.32.2"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Скорость камня (в м/с), падающего с высоты ℎ (в м), в момент удара о землю можно найти по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[v=\\sqrt{2gh}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите скорость (в м/с), с которой ударится о землю камень, падающий с высоты 1,6 м. Считайте, что ускорение свободного падения 𝑔 равно 9,8 м/с².</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Скорость камня (в м/с), падающего с высоты ℎ (в м), в момент удара о землю можно найти по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[v=\\sqrt{2gh}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите скорость (в м/с), с которой ударится о землю камень, падающий с высоты 1,6 м. Считайте, что ускорение свободного падения 𝑔 равно 9,8 м/с².</p>",
           "answer": "5,6",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.32.3"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Скорость камня (в м/с), падающего с высоты ℎ (в м), в момент удара о землю можно найти по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[v=\\sqrt{2gh}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите скорость (в м/с), с которой ударится о землю камень, падающий с высоты 2,5 м. Считайте, что ускорение свободного падения 𝑔 равно 9,8 м/с².</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Скорость камня (в м/с), падающего с высоты ℎ (в м), в момент удара о землю можно найти по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[v=\\sqrt{2gh}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите скорость (в м/с), с которой ударится о землю камень, падающий с высоты 2,5 м. Считайте, что ускорение свободного падения 𝑔 равно 9,8 м/с².</p>",
           "answer": "7",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.32.4"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Скорость камня (в м/с), падающего с высоты ℎ (в м), в момент удара о землю можно найти по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[v=\\sqrt{2gh}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите скорость (в м/с), с которой ударится о землю камень, падающий с высоты 3,6 м. Считайте, что ускорение свободного падения 𝑔 равно 9,8 м/с².</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Скорость камня (в м/с), падающего с высоты ℎ (в м), в момент удара о землю можно найти по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[v=\\sqrt{2gh}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите скорость (в м/с), с которой ударится о землю камень, падающий с высоты 3,6 м. Считайте, что ускорение свободного падения 𝑔 равно 9,8 м/с².</p>",
           "answer": "8,4",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.32.5"
         }
@@ -1095,31 +1095,31 @@ window.database.task4 = {
       "code": "4.33",
       "desc": "Формула Герона",
       "part": 1,
-      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника со сторонами 𝑎, 𝑏 и 𝑐 можно найти по формуле Герона</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\sqrt{p(p-a)(p-b)(p-c)}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑝= \\(\\dfrac{a+b+c}{2}\\). Найдите площадь треугольника, если длины его сторон равны 10, 17 и 21.</p>",
+      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника со сторонами 𝑎, 𝑏 и 𝑐 можно найти по формуле Герона</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\sqrt{p(p-a)(p-b)(p-c)},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑝= \\(\\dfrac{a+b+c}{2}\\). Найдите площадь треугольника, если длины его сторон равны 10, 17 и 21.</p>",
       "theory_sol": "<p>Запишем формулу и выразим искомую величину. Подставим значения, указанные в условии:</p><div style=\"margin:12px 0;text-align:center;font-size:1.1em\">\\[p=\\dfrac{10+17+21}{2}=24,\\quad S=\\sqrt{24\\cdot14\\cdot7\\cdot3}=84\\]</div><p>Полученное значение записываем в единицах, указанных в вопросе.</p><p style=\"margin-top:12px;font-weight:700\">Ответ: 84.</p>",
       "tasks": [
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника со сторонами 𝑎, 𝑏 и 𝑐 можно найти по формуле Герона</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\sqrt{p(p-a)(p-b)(p-c)}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑝= \\(\\dfrac{a+b+c}{2}\\). Найдите площадь треугольника, если длины его сторон равны 3, 25 и 26.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника со сторонами 𝑎, 𝑏 и 𝑐 можно найти по формуле Герона</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\sqrt{p(p-a)(p-b)(p-c)},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑝= \\(\\dfrac{a+b+c}{2}\\). Найдите площадь треугольника, если длины его сторон равны 3, 25 и 26.</p>",
           "answer": "36",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.33.1"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника со сторонами 𝑎, 𝑏 и 𝑐 можно найти по формуле Герона</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\sqrt{p(p-a)(p-b)(p-c)}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑝= \\(\\dfrac{a+b+c}{2}\\). Найдите площадь треугольника, если длины его сторон равны 4, 13 и 15.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника со сторонами 𝑎, 𝑏 и 𝑐 можно найти по формуле Герона</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\sqrt{p(p-a)(p-b)(p-c)},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑝= \\(\\dfrac{a+b+c}{2}\\). Найдите площадь треугольника, если длины его сторон равны 4, 13 и 15.</p>",
           "answer": "24",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.33.2"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника со сторонами 𝑎, 𝑏 и 𝑐 можно найти по формуле Герона</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\sqrt{p(p-a)(p-b)(p-c)}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑝= \\(\\dfrac{a+b+c}{2}\\). Найдите площадь треугольника, если длины его сторон равны 4, 51 и 53.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника со сторонами 𝑎, 𝑏 и 𝑐 можно найти по формуле Герона</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\sqrt{p(p-a)(p-b)(p-c)},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑝= \\(\\dfrac{a+b+c}{2}\\). Найдите площадь треугольника, если длины его сторон равны 4, 51 и 53.</p>",
           "answer": "90",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.33.3"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника со сторонами 𝑎, 𝑏 и 𝑐 можно найти по формуле Герона</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\sqrt{p(p-a)(p-b)(p-c)}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑝= \\(\\dfrac{a+b+c}{2}\\). Найдите площадь треугольника, если длины его сторон равны 5, 12 и 13.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника со сторонами 𝑎, 𝑏 и 𝑐 можно найти по формуле Герона</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\sqrt{p(p-a)(p-b)(p-c)},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑝= \\(\\dfrac{a+b+c}{2}\\). Найдите площадь треугольника, если длины его сторон равны 5, 12 и 13.</p>",
           "answer": "30",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.33.4"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника со сторонами 𝑎, 𝑏 и 𝑐 можно найти по формуле Герона</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\sqrt{p(p-a)(p-b)(p-c)}\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑝= \\(\\dfrac{a+b+c}{2}\\). Найдите площадь треугольника, если длины его сторон равны 5, 29 и 30.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника со сторонами 𝑎, 𝑏 и 𝑐 можно найти по формуле Герона</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\sqrt{p(p-a)(p-b)(p-c)},\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑝= \\(\\dfrac{a+b+c}{2}\\). Найдите площадь треугольника, если длины его сторон равны 5, 29 и 30.</p>",
           "answer": "72",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.33.5"
         }
@@ -1129,31 +1129,31 @@ window.database.task4 = {
       "code": "4.34",
       "desc": "Среднее квадратичное",
       "part": 1,
-      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Среднее квадратичное трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[q=\\sqrt{\\dfrac{a^2+b^2+c^2}{3}}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее квадратичное чисел 2, \\(\\sqrt{7}\\) и 17.</p>",
+      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Среднее квадратичное трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[q=\\sqrt{\\dfrac{a^2+b^2+c^2}{3}}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее квадратичное чисел 2, \\(\\sqrt{7}\\) и 17.</p>",
       "theory_sol": "<p>Запишем формулу и выразим искомую величину. Подставим значения, указанные в условии:</p><div style=\"margin:12px 0;text-align:center;font-size:1.1em\">\\[q=\\sqrt{\\dfrac{2^2+(\\sqrt7)^2+17^2}{3}}=10\\]</div><p>Полученное значение записываем в единицах, указанных в вопросе.</p><p style=\"margin-top:12px;font-weight:700\">Ответ: 10.</p>",
       "tasks": [
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее квадратичное трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[q=\\sqrt{\\dfrac{a^2+b^2+c^2}{3}}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее квадратичное чисел \\(\\sqrt{2}\\), 3 и 4.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее квадратичное трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[q=\\sqrt{\\dfrac{a^2+b^2+c^2}{3}}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее квадратичное чисел \\(\\sqrt{2}\\), 3 и 4.</p>",
           "answer": "3",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.34.1"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее квадратичное трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[q=\\sqrt{\\dfrac{a^2+b^2+c^2}{3}}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее квадратичное чисел \\(\\sqrt{2}\\), 3 и 17.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее квадратичное трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[q=\\sqrt{\\dfrac{a^2+b^2+c^2}{3}}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее квадратичное чисел \\(\\sqrt{2}\\), 3 и 17.</p>",
           "answer": "10",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.34.2"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее квадратичное трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[q=\\sqrt{\\dfrac{a^2+b^2+c^2}{3}}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее квадратичное чисел \\(\\sqrt{2}\\), 5 и 9.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее квадратичное трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[q=\\sqrt{\\dfrac{a^2+b^2+c^2}{3}}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее квадратичное чисел \\(\\sqrt{2}\\), 5 и 9.</p>",
           "answer": "6",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.34.3"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее квадратичное трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[q=\\sqrt{\\dfrac{a^2+b^2+c^2}{3}}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее квадратичное чисел \\(\\sqrt{2}\\), 8 и 9.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее квадратичное трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[q=\\sqrt{\\dfrac{a^2+b^2+c^2}{3}}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее квадратичное чисел \\(\\sqrt{2}\\), 8 и 9.</p>",
           "answer": "7",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.34.4"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее квадратичное трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[q=\\sqrt{\\dfrac{a^2+b^2+c^2}{3}}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее квадратичное чисел 2, 2\\(\\sqrt{2}\\) и 6.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Среднее квадратичное трёх чисел: 𝑎, 𝑏 и 𝑐 — вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[q=\\sqrt{\\dfrac{a^2+b^2+c^2}{3}}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Вычислите среднее квадратичное чисел 2, 2\\(\\sqrt{2}\\) и 6.</p>",
           "answer": "4",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.34.5"
         }
@@ -1163,31 +1163,31 @@ window.database.task4 = {
       "code": "4.35",
       "desc": "Длина медианы треугольника",
       "part": 1,
-      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Длина медианы 𝑚𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[m_c=\\dfrac{\\sqrt{2a^2+2b^2-c^2}}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите длину медианы 𝑚𝑐, если 𝑎= 3, 𝑏= \\(\\sqrt{7}\\) и 𝑐= 4.</p>",
+      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Длина медианы 𝑚𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[m_c=\\dfrac{\\sqrt{2a^2+2b^2-c^2}}{2}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите длину медианы 𝑚𝑐, если 𝑎= 3, 𝑏= \\(\\sqrt{7}\\) и 𝑐= 4.</p>",
       "theory_sol": "<p>Запишем формулу и выразим искомую величину. Подставим значения, указанные в условии:</p><div style=\"margin:12px 0;text-align:center;font-size:1.1em\">\\[m_c=\\dfrac{\\sqrt{2\\cdot3^2+2\\cdot7-4^2}}{2}=2\\]</div><p>Полученное значение записываем в единицах, указанных в вопросе.</p><p style=\"margin-top:12px;font-weight:700\">Ответ: 2.</p>",
       "tasks": [
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина медианы 𝑚𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[m_c=\\dfrac{\\sqrt{2a^2+2b^2-c^2}}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите длину медианы 𝑚𝑐, если 𝑎= 1, 𝑏= \\(\\sqrt{3}\\) и 𝑐= 2.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина медианы 𝑚𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[m_c=\\dfrac{\\sqrt{2a^2+2b^2-c^2}}{2}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите длину медианы 𝑚𝑐, если 𝑎= 1, 𝑏= \\(\\sqrt{3}\\) и 𝑐= 2.</p>",
           "answer": "1",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.35.1"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина медианы 𝑚𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[m_c=\\dfrac{\\sqrt{2a^2+2b^2-c^2}}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите длину медианы 𝑚𝑐, если 𝑎= 2, 𝑏= 4\\(\\sqrt{2}\\) и 𝑐= 6.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина медианы 𝑚𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[m_c=\\dfrac{\\sqrt{2a^2+2b^2-c^2}}{2}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите длину медианы 𝑚𝑐, если 𝑎= 2, 𝑏= 4\\(\\sqrt{2}\\) и 𝑐= 6.</p>",
           "answer": "3",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.35.2"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина медианы 𝑚𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[m_c=\\dfrac{\\sqrt{2a^2+2b^2-c^2}}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите длину медианы 𝑚𝑐, если 𝑎= 2, 𝑏= \\(\\sqrt{6}\\) и 𝑐= 4.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина медианы 𝑚𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[m_c=\\dfrac{\\sqrt{2a^2+2b^2-c^2}}{2}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите длину медианы 𝑚𝑐, если 𝑎= 2, 𝑏= \\(\\sqrt{6}\\) и 𝑐= 4.</p>",
           "answer": "1",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.35.3"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина медианы 𝑚𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[m_c=\\dfrac{\\sqrt{2a^2+2b^2-c^2}}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите длину медианы 𝑚𝑐, если 𝑎= 2, 𝑏= \\(\\sqrt{13}\\) и 𝑐= 5.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина медианы 𝑚𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[m_c=\\dfrac{\\sqrt{2a^2+2b^2-c^2}}{2}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите длину медианы 𝑚𝑐, если 𝑎= 2, 𝑏= \\(\\sqrt{13}\\) и 𝑐= 5.</p>",
           "answer": "1,5",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.35.4"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина медианы 𝑚𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[m_c=\\dfrac{\\sqrt{2a^2+2b^2-c^2}}{2}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите длину медианы 𝑚𝑐, если 𝑎= \\(\\sqrt{3}\\), 𝑏= \\(\\sqrt{7}\\) и 𝑐= 2.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина медианы 𝑚𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[m_c=\\dfrac{\\sqrt{2a^2+2b^2-c^2}}{2}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите длину медианы 𝑚𝑐, если 𝑎= \\(\\sqrt{3}\\), 𝑏= \\(\\sqrt{7}\\) и 𝑐= 2.</p>",
           "answer": "2",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.35.5"
         }
@@ -1197,31 +1197,31 @@ window.database.task4 = {
       "code": "4.36",
       "desc": "Длина биссектрисы треугольника",
       "part": 1,
-      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Длина биссектрисы 𝑙𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[l_c=\\dfrac{\\sqrt{ab((a+b)^2-c^2)}}{a+b}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите биссектрису 𝑙𝑐, если 𝑎= 2, 𝑏= 8 и 𝑐= 5\\(\\sqrt{3}\\).</p>",
+      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Длина биссектрисы 𝑙𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[l_c=\\dfrac{1}{a+b}\\cdot\\sqrt{ab((a+b)^2-c^2)}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите биссектрису 𝑙𝑐, если 𝑎= 2, 𝑏= 8 и 𝑐= 5\\(\\sqrt{3}\\).</p>",
       "theory_sol": "<p>Запишем формулу и выразим искомую величину. Подставим значения, указанные в условии:</p><div style=\"margin:12px 0;text-align:center;font-size:1.1em\">\\[l_c=\\dfrac{\\sqrt{2\\cdot8\\left((2+8)^2-(5\\sqrt3)^2\\right)}}{2+8}=2\\]</div><p>Полученное значение записываем в единицах, указанных в вопросе.</p><p style=\"margin-top:12px;font-weight:700\">Ответ: 2.</p>",
       "tasks": [
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина биссектрисы 𝑙𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[l_c=\\dfrac{\\sqrt{ab((a+b)^2-c^2)}}{a+b}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите биссектрису 𝑙𝑐, если 𝑎= 2, 𝑏= 4 и 𝑐= 3\\(\\sqrt{2}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина биссектрисы 𝑙𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[l_c=\\dfrac{1}{a+b}\\cdot\\sqrt{ab((a+b)^2-c^2)}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите биссектрису 𝑙𝑐, если 𝑎= 2, 𝑏= 4 и 𝑐= 3\\(\\sqrt{2}\\).</p>",
           "answer": "2",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.36.1"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина биссектрисы 𝑙𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[l_c=\\dfrac{\\sqrt{ab((a+b)^2-c^2)}}{a+b}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите биссектрису 𝑙𝑐, если 𝑎= 2, 𝑏= 18 и 𝑐= 10\\(\\sqrt{3}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина биссектрисы 𝑙𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[l_c=\\dfrac{1}{a+b}\\cdot\\sqrt{ab((a+b)^2-c^2)}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите биссектрису 𝑙𝑐, если 𝑎= 2, 𝑏= 18 и 𝑐= 10\\(\\sqrt{3}\\).</p>",
           "answer": "3",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.36.2"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина биссектрисы 𝑙𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[l_c=\\dfrac{\\sqrt{ab((a+b)^2-c^2)}}{a+b}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите биссектрису 𝑙𝑐, если 𝑎= 3, 𝑏= 6 и 𝑐= 3\\(\\sqrt{7}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина биссектрисы 𝑙𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[l_c=\\dfrac{1}{a+b}\\cdot\\sqrt{ab((a+b)^2-c^2)}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите биссектрису 𝑙𝑐, если 𝑎= 3, 𝑏= 6 и 𝑐= 3\\(\\sqrt{7}\\).</p>",
           "answer": "2",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.36.3"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина биссектрисы 𝑙𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[l_c=\\dfrac{\\sqrt{ab((a+b)^2-c^2)}}{a+b}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите биссектрису 𝑙𝑐, если 𝑎= 3, 𝑏= 9 и 𝑐= 4\\(\\sqrt{6}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина биссектрисы 𝑙𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[l_c=\\dfrac{1}{a+b}\\cdot\\sqrt{ab((a+b)^2-c^2)}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите биссектрису 𝑙𝑐, если 𝑎= 3, 𝑏= 9 и 𝑐= 4\\(\\sqrt{6}\\).</p>",
           "answer": "3",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.36.4"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина биссектрисы 𝑙𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[l_c=\\dfrac{\\sqrt{ab((a+b)^2-c^2)}}{a+b}\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите биссектрису 𝑙𝑐, если 𝑎= 3, 𝑏= 12 и 𝑐= 5\\(\\sqrt{5}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Длина биссектрисы 𝑙𝑐, проведённой к стороне 𝑐 треугольника со сторонами 𝑎, 𝑏 и 𝑐, вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[l_c=\\dfrac{1}{a+b}\\cdot\\sqrt{ab((a+b)^2-c^2)}.\\]</div><p style=\"margin:8px 0;line-height:1.58\">Найдите биссектрису 𝑙𝑐, если 𝑎= 3, 𝑏= 12 и 𝑐= 5\\(\\sqrt{5}\\).</p>",
           "answer": "4",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.36.5"
         }
@@ -1231,26 +1231,26 @@ window.database.task4 = {
       "code": "4.37",
       "desc": "Сложные проценты по вкладу",
       "part": 1,
-      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Для определения итоговой суммы вклада без возможности пополнения и частичного снятия денежных средств в банках используется формула расчёта</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=A\\left(1+\\dfrac p{100}\\right)^n\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐴 — первоначальная сумма вклада (в рублях), 𝑝 — годовая ставка по вкладу (в процентах), 𝑛 — срок размещения вклада (в годах), 𝑆 — итоговая сумма вклада (в рублях). Найдите итоговую сумму вклада, если 𝐴= 40 000, 𝑝= 12 и 𝑛= 2.</p>",
+      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Для определения итоговой суммы вклада без возможности пополнения и частичного снятия денежных средств в банках используется формула расчёта</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=A\\left(1+\\dfrac p{100}\\right)^n,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐴 — первоначальная сумма вклада (в рублях), 𝑝 — годовая ставка по вкладу (в процентах), 𝑛 — срок размещения вклада (в годах), 𝑆 — итоговая сумма вклада (в рублях). Найдите итоговую сумму вклада, если 𝐴= 40 000, 𝑝= 12 и 𝑛= 2.</p>",
       "theory_sol": "<p>Запишем формулу и выразим искомую величину. Подставим значения, указанные в условии:</p><div style=\"margin:12px 0;text-align:center;font-size:1.1em\">\\[S=40000\\left(1+\\dfrac{12}{100}\\right)^2=50176\\]</div><p>Полученное значение записываем в единицах, указанных в вопросе.</p><p style=\"margin-top:12px;font-weight:700\">Ответ: 50 176.</p>",
       "tasks": [
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Для определения итоговой суммы вклада без возможности пополнения и частичного снятия денежных средств в банках используется формула расчёта</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=A\\left(1+\\dfrac p{100}\\right)^n\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐴 — первоначальная сумма вклада (в рублях), 𝑝 — годовая ставка по вкладу (в процентах), 𝑛 — срок размещения вклада (в годах), 𝑆 — итоговая сумма вклада (в рублях). Найдите итоговую сумму вклада, если 𝐴= 10 000, 𝑝= 12 и 𝑛= 2.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Для определения итоговой суммы вклада без возможности пополнения и частичного снятия денежных средств в банках используется формула расчёта</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=A\\left(1+\\dfrac p{100}\\right)^n,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐴 — первоначальная сумма вклада (в рублях), 𝑝 — годовая ставка по вкладу (в процентах), 𝑛 — срок размещения вклада (в годах), 𝑆 — итоговая сумма вклада (в рублях). Найдите итоговую сумму вклада, если 𝐴= 10 000, 𝑝= 12 и 𝑛= 2.</p>",
           "answer": "12544",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.37.1"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Для определения итоговой суммы вклада без возможности пополнения и частичного снятия денежных средств в банках используется формула расчёта</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=A\\left(1+\\dfrac p{100}\\right)^n\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐴 — первоначальная сумма вклада (в рублях), 𝑝 — годовая ставка по вкладу (в процентах), 𝑛 — срок размещения вклада (в годах), 𝑆 — итоговая сумма вклада (в рублях). Найдите итоговую сумму вклада, если 𝐴= 20 000, 𝑝= 12 и 𝑛= 2.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Для определения итоговой суммы вклада без возможности пополнения и частичного снятия денежных средств в банках используется формула расчёта</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=A\\left(1+\\dfrac p{100}\\right)^n,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐴 — первоначальная сумма вклада (в рублях), 𝑝 — годовая ставка по вкладу (в процентах), 𝑛 — срок размещения вклада (в годах), 𝑆 — итоговая сумма вклада (в рублях). Найдите итоговую сумму вклада, если 𝐴= 20 000, 𝑝= 12 и 𝑛= 2.</p>",
           "answer": "25088",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.37.2"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Для определения итоговой суммы вклада без возможности пополнения и частичного снятия денежных средств в банках используется формула расчёта</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=A\\left(1+\\dfrac p{100}\\right)^n\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐴 — первоначальная сумма вклада (в рублях), 𝑝 — годовая ставка по вкладу (в процентах), 𝑛 — срок размещения вклада (в годах), 𝑆 — итоговая сумма вклада (в рублях). Найдите итоговую сумму вклада, если 𝐴= 30 000, 𝑝= 12 и 𝑛= 2.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Для определения итоговой суммы вклада без возможности пополнения и частичного снятия денежных средств в банках используется формула расчёта</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=A\\left(1+\\dfrac p{100}\\right)^n,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐴 — первоначальная сумма вклада (в рублях), 𝑝 — годовая ставка по вкладу (в процентах), 𝑛 — срок размещения вклада (в годах), 𝑆 — итоговая сумма вклада (в рублях). Найдите итоговую сумму вклада, если 𝐴= 30 000, 𝑝= 12 и 𝑛= 2.</p>",
           "answer": "37632",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.37.3"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Для определения итоговой суммы вклада без возможности пополнения и частичного снятия денежных средств в банках используется формула расчёта</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=A\\left(1+\\dfrac p{100}\\right)^n\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐴 — первоначальная сумма вклада (в рублях), 𝑝 — годовая ставка по вкладу (в процентах), 𝑛 — срок размещения вклада (в годах), 𝑆 — итоговая сумма вклада (в рублях). Найдите итоговую сумму вклада, если 𝐴= 50 000, 𝑝= 12 и 𝑛= 2.</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Для определения итоговой суммы вклада без возможности пополнения и частичного снятия денежных средств в банках используется формула расчёта</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=A\\left(1+\\dfrac p{100}\\right)^n,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝐴 — первоначальная сумма вклада (в рублях), 𝑝 — годовая ставка по вкладу (в процентах), 𝑛 — срок размещения вклада (в годах), 𝑆 — итоговая сумма вклада (в рублях). Найдите итоговую сумму вклада, если 𝐴= 50 000, 𝑝= 12 и 𝑛= 2.</p>",
           "answer": "62720",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.37.4"
         },
@@ -1265,26 +1265,26 @@ window.database.task4 = {
       "code": "4.38",
       "desc": "Площадь треугольника через синус",
       "part": 1,
-      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{1}{2}bc\\sin\\alpha\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑏 и 𝑐 — две стороны треугольника, 𝛼 — угол между ними. Пользуясь этой формулой, найдите площадь 𝑆, если 𝑏= 16, 𝑐= 9 и sin 𝛼= \\(\\dfrac{1}{3}\\).</p>",
+      "theory_task": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{1}{2}bc\\sin\\alpha,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑏 и 𝑐 — две стороны треугольника, 𝛼 — угол между ними. Пользуясь этой формулой, найдите площадь 𝑆, если 𝑏= 16, 𝑐= 9 и sin 𝛼= \\(\\dfrac{1}{3}\\).</p>",
       "theory_sol": "<p>Запишем формулу и выразим искомую величину. Подставим значения, указанные в условии:</p><div style=\"margin:12px 0;text-align:center;font-size:1.1em\">\\[S=\\dfrac12\\cdot16\\cdot9\\cdot\\dfrac13=24\\]</div><p>Полученное значение записываем в единицах, указанных в вопросе.</p><p style=\"margin-top:12px;font-weight:700\">Ответ: 24.</p>",
       "tasks": [
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{1}{2}bc\\sin\\alpha\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑏 и 𝑐 — две стороны треугольника, 𝛼 — угол между ними. Пользуясь этой формулой, найдите площадь 𝑆, если 𝑏= 12, 𝑐= 15 и sin 𝛼= \\(\\dfrac{1}{3}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{1}{2}bc\\sin\\alpha,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑏 и 𝑐 — две стороны треугольника, 𝛼 — угол между ними. Пользуясь этой формулой, найдите площадь 𝑆, если 𝑏= 12, 𝑐= 15 и sin 𝛼= \\(\\dfrac{1}{3}\\).</p>",
           "answer": "30",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.38.1"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{1}{2}bc\\sin\\alpha\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑏 и 𝑐 — две стороны треугольника, 𝛼 — угол между ними. Пользуясь этой формулой, найдите площадь 𝑆, если 𝑏= 13, 𝑐= 12 и sin 𝛼= \\(\\dfrac{1}{3}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{1}{2}bc\\sin\\alpha,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑏 и 𝑐 — две стороны треугольника, 𝛼 — угол между ними. Пользуясь этой формулой, найдите площадь 𝑆, если 𝑏= 13, 𝑐= 12 и sin 𝛼= \\(\\dfrac{1}{3}\\).</p>",
           "answer": "26",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.38.2"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{1}{2}bc\\sin\\alpha\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑏 и 𝑐 — две стороны треугольника, 𝛼 — угол между ними. Пользуясь этой формулой, найдите площадь 𝑆, если 𝑏= 14, 𝑐= 12 и sin 𝛼= \\(\\dfrac{1}{3}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{1}{2}bc\\sin\\alpha,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑏 и 𝑐 — две стороны треугольника, 𝛼 — угол между ними. Пользуясь этой формулой, найдите площадь 𝑆, если 𝑏= 14, 𝑐= 12 и sin 𝛼= \\(\\dfrac{1}{3}\\).</p>",
           "answer": "28",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.38.3"
         },
         {
-          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{1}{2}bc\\sin\\alpha\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑏 и 𝑐 — две стороны треугольника, 𝛼 — угол между ними. Пользуясь этой формулой, найдите площадь 𝑆, если 𝑏= 18, 𝑐= 16 и sin 𝛼= \\(\\dfrac{1}{3}\\).</p>",
+          "text": "<p style=\"margin:8px 0;line-height:1.58\">Площадь треугольника вычисляется по формуле</p><div class=\"formula-source\" style=\"text-align:center;margin:12px 0;font-size:1.09em\">\\[S=\\dfrac{1}{2}bc\\sin\\alpha,\\]</div><p style=\"margin:8px 0;line-height:1.58\">где 𝑏 и 𝑐 — две стороны треугольника, 𝛼 — угол между ними. Пользуясь этой формулой, найдите площадь 𝑆, если 𝑏= 18, 𝑐= 16 и sin 𝛼= \\(\\dfrac{1}{3}\\).</p>",
           "answer": "48",
           "source": "Открытый банк задач ЕГЭ по базовой математике, MathStart, 18.05.2026, аналог 4.38.4"
         },
